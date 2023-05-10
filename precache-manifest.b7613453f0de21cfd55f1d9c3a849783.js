@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "9bde76fc9a58a34e7e11",
-    "url": "/laboratorio-de-letras/static/css/main.20452b6c.chunk.css"
+    "revision": "6c0e41c204bc975d2b3b",
+    "url": "/laboratorio-de-letras/static/css/main.5f2c5263.chunk.css"
   },
   {
-    "revision": "9bde76fc9a58a34e7e11",
+    "revision": "6c0e41c204bc975d2b3b",
     "url": "/laboratorio-de-letras/static/js/main.7d11ec6d.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/laboratorio-de-letras/static/media/erlenmeyer-flask-296801_640.44246bcd.png"
   },
   {
-    "revision": "ef025702f7ef959c9d36e3c82548e02b",
-    "url": "/laboratorio-de-letras/static/media/pexels-monstera-7794362.ef025702.jpg"
+    "revision": "37beec98d49c62111e97ce6f37baa465",
+    "url": "/laboratorio-de-letras/static/media/pexels-monstera-7794362.37beec98.jpg"
   },
   {
-    "revision": "fe9b23e8273569434f8bacf8bf67cb6f",
+    "revision": "7a54eabc756d10c2880f6a344f108352",
     "url": "/laboratorio-de-letras/index.html"
   }
 ];
