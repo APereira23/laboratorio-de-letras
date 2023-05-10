@@ -1,38 +1,121 @@
-.App {
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+/* HEADER */
+
+.header-component {
+  background-color: rgb(69, 76, 149);
+  color: rgb(214, 214, 214);
+  padding: 2rem;
+  margin: -1rem;
+  margin-bottom: 2rem;
+  margin-top: -3rem;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header-title {
+  font-family: 'Courier New', Courier, monospace;
+  border: solid;
+  border-radius: 5px;
+  padding: 10px;
+  max-width: 300px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header-image-microscope {
+  width: 180px;
+  position: relative;
+  top: 40px;
+  left: 35px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header-image-flask {
+  position: absolute;
+  width: 70px;
+  top: 190px;
+  right: 30vw;
+}
+
+/* LANDING */
+
+.home-component {
+  background-image: url(./pictures/pexels-monstera-7794362.jpg);
+  padding: 2rem;
+  margin: -2rem;
+}
+
+.home-flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.landing-container {
+  max-width: 720px; 
+}
+
+.landing-slogan {
+  text-align: center;
+  color: rgb(1, 10, 105);
+}
+
+.landing-welcome-text {
+  padding: 1.5rem;
+  line-height: 1.3rem;
+}
+
+/* SERVICES */
+.services-component {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.services-title {
+  text-align: center;
+  color: rgb(1, 10, 105);
+  text-decoration: underline;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.service-item-background {
+  background-color: rgb(69, 76, 149);
+  border-radius: 20px 20px 25px 20px;
+  box-shadow: 5px 5px 5px 5px;
+  max-width: 720px;
+  margin-bottom: 2rem;
+}
+
+.service-item-container {
+  max-width: 720px;
+  box-shadow: 5px 5px 5px 5px;
+  background-color: rgb(205, 205, 210);
+  padding: 1rem;
+  border-radius: 20px 20px 18% 20px;
+}
+
+/* Footer */
+
+.footer-component {
+  background-color: rgb(69, 76, 149);
+  color: rgb(214, 214, 214);
+  padding: 1.5rem;
+  margin: -1rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+@media only screen and (min-width:721px) {
+  .header-title {
+    max-width: 100%;
+    padding: 20px;
+    position: relative;
+    left: 10%;
   }
-  to {
-    transform: rotate(360deg);
+  .header-image {
+    left: 6%;
   }
 }
