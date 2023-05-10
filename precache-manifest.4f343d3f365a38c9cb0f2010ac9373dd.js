@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "df2092d5467219a869a9",
-    "url": "/laboratorio-de-letras/static/css/main.7cba6dfb.chunk.css"
+    "revision": "9bde76fc9a58a34e7e11",
+    "url": "/laboratorio-de-letras/static/css/main.20452b6c.chunk.css"
   },
   {
-    "revision": "df2092d5467219a869a9",
+    "revision": "9bde76fc9a58a34e7e11",
     "url": "/laboratorio-de-letras/static/js/main.7d11ec6d.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/laboratorio-de-letras/static/media/pexels-monstera-7794362.ef025702.jpg"
   },
   {
-    "revision": "2c2d366820bb54bd89633890a9dc47db",
+    "revision": "fe9b23e8273569434f8bacf8bf67cb6f",
     "url": "/laboratorio-de-letras/index.html"
   }
 ];
