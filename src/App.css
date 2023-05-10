@@ -9,8 +9,9 @@ html {
 .header-component {
   background-color: rgb(69, 76, 149);
   color: rgb(214, 214, 214);
+  width: 100%;
   padding: 2rem;
-  margin: -1rem;
+  margin: -0rem;
   margin-bottom: 2rem;
   margin-top: -3rem;
   text-align: center;
@@ -46,7 +47,9 @@ html {
 .home-component {
   background-image: url(./pictures/pexels-monstera-7794362.jpg);
   padding: 2rem;
-  margin: -2rem;
+  width: 100%;
+  margin-top: -2rem;
+  margin-bottom: -2rem;
 }
 
 .home-flex-container {
@@ -103,8 +106,10 @@ html {
   background-color: rgb(69, 76, 149);
   color: rgb(214, 214, 214);
   padding: 1.5rem;
-  margin: -1rem;
+  margin: -0rem;
+  width: 100%;
   margin-top: 1rem;
+  margin-bottom: -2rem;
   text-align: center;
 }
 
