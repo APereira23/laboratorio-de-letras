@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/laboratorio-de-letras/precache-manifest.0d01593e74b34f245d473bcc2900b445.js"
+  "/laboratorio-de-letras/precache-manifest.2fcbbb8bf737ecf1758f3b94d7f96e77.js"
 );
 
 workbox.clientsClaim();
