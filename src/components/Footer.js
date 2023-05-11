@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { contacts } from "./data.js";
 
 class Footer extends Component {
   constructor(props) {
@@ -7,7 +8,11 @@ class Footer extends Component {
 
   render() {
     return (
-      <div className="footer-component">FOOTER</div>
+      <div className="footer-component">
+        <h2>{contacts.message}</h2>
+        <p><strong>Email:</strong> {contacts.email}</p>
+        <p><strong>Telemóvel:</strong> {contacts.phone}</p>
+      </div>
     );
   }
 }

@@ -1,9 +1,5 @@
 const headerTitle = "Laboratório de Letras";
 
-const contacts = {
-  email: "email@email.com",
-  phone: "+351 999999999",
-}
 
 const slogan = "Ajudamos-te a realizar o teu potencial";
 
@@ -37,11 +33,16 @@ const servicesList = [
 const aboutTitle = "O Chefe do Laboratório";
 
 const aboutText = [
-  
+
 ];
 
 const credits = [
   "",
 ];
 
+const contacts = {
+  message: "Contacta-nos e descobre como podemos ajudar-te!",
+  email: "laboratoriodeletras@gmail.com",
+  phone: "+351 999999999",
+}
 export { headerTitle, contacts, slogan, welcomeText, servicesTitle, servicesList, credits };

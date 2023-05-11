@@ -111,14 +111,27 @@ html {
 
 .footer-component {
   background-color: rgb(69, 76, 149);
-  color: rgb(214, 214, 214);
+  color: rgb(231, 229, 229);
   padding: 1.5rem;
   text-align: center;
-  width:auto;
   margin-left: -5rem;
   margin-right: -5rem;
   margin-bottom: -1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.footer-component h2 {
+  text-align: center;
+  width: 560px;
+  margin-left: 4rem;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+}
+
+.footer-component p {
+  margin-left: 4rem;
 }
 
 @media only screen and (min-width:721px) {
