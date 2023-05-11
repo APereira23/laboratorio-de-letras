@@ -1,16 +1,17 @@
 {
-  "main.css": "/static/css/main.bda4b77f.chunk.css",
-  "main.js": "/static/js/main.02261c58.chunk.js",
-  "main.js.map": "/static/js/main.02261c58.chunk.js.map",
+  "main.css": "/static/css/main.b7280dbc.chunk.css",
+  "main.js": "/static/js/main.044be7ee.chunk.js",
+  "main.js.map": "/static/js/main.044be7ee.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.15f434b3.chunk.js": "/static/js/2.15f434b3.chunk.js",
-  "static/js/2.15f434b3.chunk.js.map": "/static/js/2.15f434b3.chunk.js.map",
+  "static/js/2.f9006943.chunk.js": "/static/js/2.f9006943.chunk.js",
+  "static/js/2.f9006943.chunk.js.map": "/static/js/2.f9006943.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.8db6f3dd9915d16c0099d664aed00da5.js": "/precache-manifest.8db6f3dd9915d16c0099d664aed00da5.js",
+  "precache-manifest.d49e06bd3f060465b766a8286116c79e.js": "/precache-manifest.d49e06bd3f060465b766a8286116c79e.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.bda4b77f.chunk.css.map": "/static/css/main.bda4b77f.chunk.css.map",
+  "static/css/main.b7280dbc.chunk.css.map": "/static/css/main.b7280dbc.chunk.css.map",
   "static/media/erlenmeyer-flask-296801_640.png": "/static/media/erlenmeyer-flask-296801_640.44246bcd.png",
   "static/media/microscope.png": "/static/media/microscope.cadb8fe3.png",
-  "static/media/App.css": "/static/media/pexels-monstera-7794362.659231fa.jpg"
+  "static/media/App.css": "/static/media/pexels-monstera-7794362.659231fa.jpg",
+  "static/media/picture.jpeg": "/static/media/picture.b4f4dea7.jpeg"
 }
