@@ -9,7 +9,7 @@ class Services extends Component {
   render() {
     return (
       <div className="services-component">
-        <h3 className="services-title">{servicesTitle}</h3>
+        <h2 className="services-title">{servicesTitle}</h2>
         {servicesList.map((item) => {
           return (
             <div className="service-item-background">
