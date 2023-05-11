@@ -14,9 +14,9 @@ class HomeComp extends Component {
           <div className="landing-container">
             <h2 className="landing-slogan">{slogan}</h2>
             <p className="landing-welcome-text">{welcomeText}</p>
+            <Services />
           </div>
         </div>
-        <Services />
       </div>
     );
   }

@@ -8,46 +8,45 @@ html {
 /* HEADER */
 
 .header-component {
+  width: 100vw;
   background-color: rgb(69, 76, 149);
   color: rgb(214, 214, 214);
-  width: 100%;
-  padding: 2rem;
-  margin-left: -2rem;
-  text-align: center;
+  padding: 0.5rem;
+  padding-left: 3.5rem;
+  padding-right: 1.5rem;
+  margin-top: -1rem;
   display: flex;
+  text-align: center;
+  justify-content: center;
   align-items: center;
-  justify-content: space-evenly;
 }
 
 .header-title {
   font-family: 'Courier New', Courier, monospace;
   border: solid;
   border-radius: 5px;
-  padding: 10px;
   max-width: 300px;
-  position: relative;
-  left: 40px;
 }
 
 .header-image-microscope {
-  width: 180px;
-  position: relative;
-  top: 40px;
-  left: 12px;
+  position: sticky;
+  width: 170px;
+  height: 220px;
 }
 
 .header-image-flask {
-  position: absolute;
-  width: 70px;
-  top: 230px;
-  right: 20vw;
+  width: 75px;
+  height: 85px;
+  position: sticky;
+  right: 0px;
+  top: 100%;
 }
 
 /* LANDING */
 
 .home-component {
   padding: 2rem;
-  width: 100%;
+  width: 100vw;
 }
 
 .home-flex-container {
@@ -110,12 +109,11 @@ html {
 /* Footer */
 
 .footer-component {
+  width: 100vw;
   background-color: rgb(69, 76, 149);
   color: rgb(231, 229, 229);
   padding: 1.5rem;
   text-align: center;
-  margin-left: -5rem;
-  margin-right: -5rem;
   margin-bottom: -1rem;
   display: flex;
   flex-direction: column;
@@ -124,24 +122,21 @@ html {
 
 .footer-component h2 {
   text-align: center;
-  width: 560px;
-  margin-left: 4rem;
   margin-top: -0.5rem;
   margin-bottom: 1rem;
+  padding-left: 1.5rem;
 }
 
 .footer-component p {
-  margin-left: 4rem;
 }
 
-@media only screen and (min-width:721px) {
+@media only screen and (min-width:1440px) {
   .header-title {
-    max-width: 100%;
-    padding: 20px;
-    position: relative;
-    left: 12%;
   }
   .header-image {
-    left: 6%;
+  }
+  .home-component {
+  }
+  .home-flex-container {
   }
 }

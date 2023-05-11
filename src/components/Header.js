@@ -12,9 +12,9 @@ class Header extends Component {
   render() {
     return (
       <div className="header-component">
+        <img className="header-image-flask" src={flask} />
         <h1 className="header-title">{headerTitle}</h1>
         <img className="header-image-microscope" src={microscope} />
-        <img className="header-image-flask" src={flask} />
       </div>
     );
   }
