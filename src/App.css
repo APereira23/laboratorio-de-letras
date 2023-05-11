@@ -8,7 +8,7 @@ html {
 /* HEADER */
 
 .header-component {
-  background-color: rgb(69, 76, 149);
+  background: linear-gradient(to top, rgb(69, 76, 149), rgb(32, 32, 34));
   color: rgb(214, 214, 214);
   padding: 0.5rem;
   padding-left: 3.5rem;
@@ -107,10 +107,38 @@ html {
   font-weight: bold;
 }
 
+/* About */
+
+.about-title {
+  text-align: center;
+  color: rgb(1, 10, 105);
+
+}
+.about-main-container {
+  display: flex;
+  align-items: center;
+  background-color: rgb(69, 76, 149);
+  color: rgb(231, 229, 229);
+  padding: 1rem;
+  border-radius: 15px;
+}
+
+.about-image {
+  width:270px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+
+.about-text {
+  line-height: 1.3rem;
+  padding: 1.5rem;
+}
+
+
 /* Footer */
 
 .footer-component {
-  background-color: rgb(69, 76, 149);
+  background: linear-gradient(to bottom, rgb(69, 76, 149), rgb(32, 32, 34));
   color: rgb(231, 229, 229);
   padding: 1.5rem;
   padding-right: 4rem;

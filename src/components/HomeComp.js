@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Services from "./Services";
+import About from "./About";
 import { slogan, welcomeText } from "./data.js";
 
 class HomeComp extends Component {
@@ -15,6 +16,7 @@ class HomeComp extends Component {
             <h2 className="landing-slogan">{slogan}</h2>
             <p className="landing-welcome-text">{welcomeText}</p>
             <Services />
+            <About />
           </div>
         </div>
       </div>

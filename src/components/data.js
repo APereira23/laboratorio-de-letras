@@ -15,7 +15,7 @@ const servicesList = [
   },
   {
     title: "Traduções Português / Inglês",
-    description: "Traduzimos tudo, desde anúncios e páginas web até ementas. Chega de afugentar clientes por medo de que vão comer 'nails on bread'!",
+    description: "Traduzimos tudo, desde anúncios e páginas web até ementas. Chega de afugentar clientes por medo de comer 'nails on bread'!",
     price: "0,02€ / palavra",
   },
   {
@@ -33,16 +33,14 @@ const servicesList = [
 const aboutTitle = "O Chefe do Laboratório";
 
 const aboutText = [
-
+  "Desde sempre ligado ao mundo das letras, António Pereira formou-se na Faculdade de Letras da Faculdade de Lisboa, onde se especializou em linguística, revisão textual e literatura. Durante este período, colaborou, enquanto autor e editor, em várias publicações afetas a esta instituição.",
+  "Desde 2019, tem dado aulas de Português, Inglês e Filosofia no centro de estudos Explicolândia em Alvalade, tendo desempenhado também, durante dois anos, a função de coordenador neste centro.",
 ];
 
-const credits = [
-  "",
-];
 
 const contacts = {
   message: "Contacta-nos e descobre como podemos ajudar-te!",
   email: "laboratoriodeletras@gmail.com",
   phone: "+351 999999999",
 }
-export { headerTitle, contacts, slogan, welcomeText, servicesTitle, servicesList, credits };
+export { headerTitle, slogan, welcomeText, servicesTitle, servicesList, aboutTitle, aboutText, contacts };
