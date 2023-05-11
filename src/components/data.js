@@ -15,27 +15,29 @@ const servicesList = [
   {
     title: "Explicações / Preparação para Exames Nacionais / Provas +23",
     description: "Aulas privadas de Português, Inglês e Filosofia para te ajudar a alcançar os teus objetivos. Metodologia personalizada: o plano do apoio pedagógico é definido em função da situação escolar específica de cada aluno. Disponível nos regimes Online, ao domicílio ou em local público de estudo.",
-    image: "link here",
     price: "sob consulta",
   },
   {
-    title: "Traduções Português «--» Inglês",
-    description: "Traduzimos tudo, desde anúncios e páginas web até ementas. No more confused customers scared of eating 'nails on bread' or having rocks in their soup!",
-    image: "link here",
-    price: "sob consulta",
+    title: "Traduções Português / Inglês",
+    description: "Traduzimos tudo, desde anúncios e páginas web até ementas. Chega de afugentar clientes por medo de que vão comer 'nails on bread'!",
+    price: "0,02€ / palavra",
   },
   {
-    title: "Revisão de Teses",
-    description: "Deixa a revisão ortográfica e a formatação por nossa conta, e ganha mais tempo para te focares no essencial.",
-    image: "link here",
-    price: "sob consulta",
+    title: "Revisão Textual",
+    description: "Deixa a revisão e a formatação por nossa conta, e ganha mais tempo para te focares no essencial. Realizamos um serviço completo de revisão, incluindo: correção ortográfica segundo o acordo ortográfico vigente; formatação de acordo com o guia de estilo relevante (se aplicável); reestruturação sintática onde sejam identificadas impropriedades gramaticais ou ambiguidades; inserção de comentários em trechos onde possa ser útil uma reformulação de ideias; disponibilização de um registo completo de alterações, para veres tudo o que foi mudado.",
+    price: "0,01€ / palavra",
   },
   {
     title: "Currículos personalizados",
     description: "Diz-nos o que fizeste, e dir-te-emos que as tuas candidaturas não vão ficar mais perdidas numa pilha de folhas Europass! Porque o Curriculum Vitae é a nossa carta de apresentação ao mundo, realizamos uma reunião preliminar para acertar todos os detalhes e preferências pessoais, de acordo com o tipo de trabalho alvo, para que causes uma excelente primeira impressão.",
-    image: "link here",
-    price: "sob consulta",
+    price: "5€ / un",
   },
+];
+
+const aboutTitle = "O Chefe do Laboratório";
+
+const aboutText = [
+  
 ];
 
 const credits = [
