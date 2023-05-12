@@ -8,7 +8,7 @@ html {
 /* HEADER */
 
 .header-component {
-  background: linear-gradient(to top, rgb(69, 76, 149), rgb(32, 32, 34));
+  background: linear-gradient(to top, rgb(92, 101, 199), rgb(32, 32, 34));
   color: rgb(214, 214, 214);
   padding: 1.5rem;
   margin-top: -1rem;
@@ -46,7 +46,7 @@ html {
 
 .landing-slogan {
   text-align: center;
-  color: rgb(1, 10, 105);
+  color: rgb(1, 15, 171);
 }
 
 .landing-welcome-text {
@@ -64,12 +64,12 @@ html {
 
 .services-title {
   text-align: center;
-  color: rgb(1, 10, 105);
+  color: rgb(1, 15, 171);
   text-decoration: underline;
 }
 
 .service-item-background {
-  background-color: rgb(69, 76, 149);
+  background-color: rgb(92, 101, 199);
   border-radius: 20px 20px 25px 20px;
   box-shadow: 5px 5px 5px 5px;
   max-width: 720px;
@@ -79,7 +79,7 @@ html {
 .service-item-container {
   max-width: 720px;
   box-shadow: 5px 5px 5px 5px;
-  background-color: rgb(210, 208, 205);
+  background-color: rgb(255, 246, 74);
   padding: 1rem;
   border-radius: 20px 20px 18% 20px;
 }
@@ -96,14 +96,14 @@ html {
 
 .about-title {
   text-align: center;
-  color: rgb(1, 10, 105);
+  color: rgb(1, 15, 171);
 
 }
 .about-main-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(69, 76, 149);
+  background-color: rgb(92, 101, 199);
   color: rgb(231, 229, 229);
   padding: 1rem;
   border-radius: 15px;
@@ -124,7 +124,7 @@ html {
 /* Footer */
 
 .footer-component {
-  background: linear-gradient(to bottom, rgb(69, 76, 149), rgb(32, 32, 34));
+  background: linear-gradient(to bottom, rgb(92, 101, 199), rgb(32, 32, 34));
   color: rgb(231, 229, 229);
   padding: 1.5rem;
   padding-right: 4rem;
