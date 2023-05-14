@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8310fa13d1ccf3f1d89c",
-    "url": "/static/css/main.14cbaef0.chunk.css"
+    "revision": "637884cd7a846d57b845",
+    "url": "/static/css/main.60c73dc2.chunk.css"
   },
   {
-    "revision": "8310fa13d1ccf3f1d89c",
-    "url": "/static/js/main.18b5fdd7.chunk.js"
+    "revision": "637884cd7a846d57b845",
+    "url": "/static/js/main.a1e0a2ed.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/pexels-monstera-7794362.659231fa.jpg"
   },
   {
-    "revision": "e29d4867955c7e1b2e9fd5539ebdff6a",
+    "revision": "3a35c0a1bdbde998ae4ac5b4e2ceb085",
     "url": "/index.html"
   }
 ];
