@@ -140,8 +140,23 @@ html {
 .footer-component h2 {
   text-align: center;
   margin-top: -0.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.4rem;
   padding-left: 1.5rem;
+}
+
+.footer-email {
+  margin-bottom: -0.5rem;
+}
+
+.social-media-container {
+  margin-top: -1rem;
+  display: flex;
+  align-items: center;
+}
+
+.social-media-container a {
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
 }
 
 @media (min-width:660px) {
