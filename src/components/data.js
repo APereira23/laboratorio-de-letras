@@ -33,7 +33,7 @@ const servicesList = [
 const aboutTitle = "O Chefe do Laboratório";
 
 const aboutText = [
-  "Desde sempre ligado ao mundo das letras, António Pereira formou-se na Faculdade de Letras da Faculdade de Lisboa, onde se especializou em linguística, revisão textual e literatura. Durante este período, colaborou, enquanto autor e editor, em várias publicações afetas a esta instituição.",
+  "Desde sempre ligado ao mundo das letras, António Pereira formou-se na Faculdade de Letras da Universidade de Lisboa, onde se especializou em linguística, revisão textual e literatura. Durante este período, colaborou, enquanto autor e editor, em várias publicações afetas a esta instituição.",
   "Desde 2019, tem dado aulas de Português, Inglês e Filosofia no centro de estudos Explicolândia em Alvalade, tendo desempenhado também, durante dois anos, a função de coordenador neste centro.",
 ];
 
