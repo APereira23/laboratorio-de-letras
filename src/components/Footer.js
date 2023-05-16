@@ -12,7 +12,7 @@ class Footer extends Component {
         <h2>{contacts.message}</h2>
         <p className="footer-email"><strong>Email:</strong> {contacts.email}</p>
         <p><strong>Telemóvel:</strong> {contacts.phone}</p>
-        <div className="social-media-container">
+        {/* <div className="social-media-container">
           <p>Segue-nos em:</p>
           <a target="_blank" title="Follow us on Facebook" 
             href="https://www.facebook.com/PLACEHOLDER">
@@ -24,7 +24,7 @@ class Footer extends Component {
             <img alt="follow us on instagram" 
               src="https://marketing.create-cdn.net/assets/instagram40x40.png" />
           </a>
-        </div>
+        </div> */}
 
       </div>
     );
