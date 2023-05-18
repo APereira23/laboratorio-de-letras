@@ -19,7 +19,7 @@ class Services extends Component {
                   {/* <img src={} className="service-item-picture" /> */}
                 </div>
                 <p className="service-item-description">{item.description}</p>
-                <p className="service-item-price">Preço: {item.price}</p>
+                {/* <p className="service-item-price">Preço: {item.price}</p> */}
               </div>
             </div>
           );
