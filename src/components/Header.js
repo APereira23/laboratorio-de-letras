@@ -11,6 +11,7 @@ class Header extends Component {
     return (
       <div className="header-component">
         <h1 className="header-title">{headerTitle}</h1>
+        <h3 className="sub-header">Apoio Pedagógico | Preparação para Exames | Revisão Textual | Traduções</h3>
       </div>
     );
   }
